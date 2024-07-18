@@ -1,0 +1,162 @@
+/* 
+
+
+
+  body {
+    background-color: #e1b382;
+  }
+  
+  h1 {
+    font-size: 400%;
+    color: #2d545e;
+  }
+  
+  .todo {
+    text-align: center;
+    background-color: #e1b382;
+  }
+  
+  .todo input {
+    margin-left: 1%;
+    margin-right: 7%;
+    margin-top: 5%;
+    height: 45px;
+    width: 30%;
+  }
+  
+  .todo button {
+    padding: 15px 28px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2d545e;
+  }
+  
+  #second {
+    background-color: #2d545e;
+  }
+  
+  #first {
+    background-color: #d02828;
+  }
+  
+  .todo ul {
+    margin-top: 5%;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1em;
+    padding: 10px;
+    background-color:#e1b382;
+  
+    border-radius: 8px;
+  }
+  
+  .todo li span {
+    flex-grow: 1;
+  }
+  
+  #span1 {
+    font-size: x-large;
+    font-weight: bold;
+    color: #2d545e;
+  }
+  
+  #span2 {
+    font-size: x-large;
+    font-weight: bold;
+    color: #2d545e;
+    margin-left: 10px;
+  }
+  
+  .todo li button {
+    margin-left: 10px;
+  }
+   */
+
+
+   body {
+    background-color: #e1b382;
+  }
+  
+  h1 {
+    font-size: 400%;
+    color: #2d545e;
+  }
+  
+  .todo {
+    text-align: center;
+    background-color: #e1b382;
+  }
+  
+  .todo input {
+    margin-left: 1%;
+    margin-right: 7%;
+    margin-top: 5%;
+    height: 45px;
+    width: 30%;
+  }
+  
+  .todo button {
+    padding: 15px 28px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2d545e;
+  }
+  
+  #second {
+    background-color: #2d545e;
+  }
+  
+  #first {
+    background-color: #d02828;
+  }
+  
+  .todo ul {
+    margin-top: 5%;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1em;
+    padding: 10px;
+    background-color:  #e1b382;
+
+    border-radius: 8px;
+  }
+  
+  .todo li .task-info {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+  }
+  
+  #span1 {
+    font-size: x-large;
+    font-weight: bold;
+    color: #2d545e;
+  }
+  
+  #span2 {
+    font-size: x-large;
+    font-weight: bold;
+    color: #2d545e;
+    margin-left: 10px;
+  }
+  
+  .todo li button {
+    margin-left: 10px;
+  }
+  
